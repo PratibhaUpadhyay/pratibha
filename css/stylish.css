@@ -1,0 +1,28 @@
+.main{
+    border: solid 10px;
+}
+.top-container{
+    background-color: orange;
+    width: 500px;
+    height: 200px;
+    border: solid 3px;
+}
+.middle-container{
+    background-color: white;
+    width: 500px;
+    height: 200px;
+    border: solid 3px;
+
+}
+
+.bottom-container{
+    background-color: green;
+    width: 500px;
+    height: 200px;
+    border: solid 3px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    margin-top: 40px;
+}
